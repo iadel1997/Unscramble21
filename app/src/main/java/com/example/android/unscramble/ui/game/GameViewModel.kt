@@ -101,5 +101,6 @@ class GameViewModel : ViewModel() {
         wordsList.clear()
         getNextWord()
     }
+    //Finish
 
 }
